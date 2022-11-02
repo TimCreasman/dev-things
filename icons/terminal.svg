@@ -1,0 +1,14 @@
+<svg width="110" height="110" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_1" fill="#6c71c4" r="55" cy="55" cx="55"/>
+  <polygon stroke-width="0" stroke="null" id="svg_3" fill="#002b36" points="87.89747619628906,76.73995780944824 84.90679931640625,78.91395378112793 25.093204498291016,78.91395378112793 22.102523803710938,76.73995780944824 22.102523803710938,33.26004219055176 25.093204498291016,31.08604621887207 84.90679931640625,31.08604621887207 87.89747619628906,33.26004219055176 "/>
+  <polygon stroke-width="0" stroke="null" id="svg_25" fill="#073642" points="25.712912887334824,34.910307586193085 84.43335661292076,34.910307586193085 25.712912887334824,74.53684109449387 "/>
+  <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" id="svg_45" y="42.923184" x="28.889935" stroke-opacity="null" stroke-width="0" stroke="null" fill="#eee8d5">%_</text>
+ </g>
+</svg>

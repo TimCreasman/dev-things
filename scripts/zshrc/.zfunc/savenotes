@@ -1,0 +1,11 @@
+cd $NOTES_DIR;
+if [[ -n "$(git status -s)" ]]
+then
+  git add .;
+  git commit -m 'Saved on: `date`';
+  git push;
+else
+  echo "no changes";
+fi
+cd -;
+

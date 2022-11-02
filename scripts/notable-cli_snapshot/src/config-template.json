@@ -1,0 +1,7 @@
+{
+  "noteDir": "[note directory]",
+  "defaultNoteName": "[default note title]",
+  "tags": {
+    "git": "[git note name]"
+  }
+}
